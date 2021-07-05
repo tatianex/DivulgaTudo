@@ -45,3 +45,6 @@ quantidade máxima de compartilhamentos
  
 
 Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
+
+
+OBS: Implementação futura criar a classe de clientes e fazer a implementação dos métodos
